@@ -1,0 +1,14 @@
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\bin\Debug\net8.0\DiceJack.exe
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\bin\Debug\net8.0\DiceJack.deps.json
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\bin\Debug\net8.0\DiceJack.runtimeconfig.json
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\bin\Debug\net8.0\DiceJack.dll
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\bin\Debug\net8.0\DiceJack.pdb
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\DiceJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\DiceJack.AssemblyInfoInputs.cache
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\DiceJack.AssemblyInfo.cs
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\DiceJack.csproj.CoreCompileInputs.cache
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\DiceJack.dll
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\refint\DiceJack.dll
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\DiceJack.pdb
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\DiceJack.genruntimeconfig.cache
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\ref\DiceJack.dll
