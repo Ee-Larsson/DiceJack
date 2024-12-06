@@ -12,3 +12,4 @@ C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\refi
 C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\DiceJack.pdb
 C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\DiceJack.genruntimeconfig.cache
 C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\ref\DiceJack.dll
+C:\Users\eemil.larsson\Documents\Program\DiceJack\DiceJack\obj\Debug\net8.0\DiceJack.sourcelink.json

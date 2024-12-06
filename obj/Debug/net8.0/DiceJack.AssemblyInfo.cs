@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiceJack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+936e45bf652e613b5e56f551e7f65f05ffa2b17c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiceJack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiceJack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
